@@ -1,0 +1,3 @@
+{dateTime}	6fe4e466-5c39-4c8d-b9ad-f32e4eeae94c	Log Event Emitted$format(new Date(), 'yyyyMMdd	HH:mm:ss')	06f805e4-510c-493e-bbce-71ee50939234	Log Event Emitted
+$format(new Date(), 'yyyyMMdd	HH:mm:ss')	6bbd2ec1-9199-40b7-9274-3c0914f1ffda	Log Event Emitted
+20230315	18:14:02	6344ccfd-3116-4de8-a3ab-4cce6737a6fe	Log Event Emitted

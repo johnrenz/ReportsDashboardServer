@@ -1,0 +1,6 @@
+[
+  { "role_type": 5150, "role_name": "Admin" },
+  { "role_type": 1984, "role_name": "Editor" },
+  { "role_type": 2001, "role_name": "WebUser" },
+  { "role_type": 2002, "role_name": "BookingUser" }
+]

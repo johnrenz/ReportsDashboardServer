@@ -1,0 +1,124 @@
+20230316	17:28:56	3fd40dec-3123-4e76-a1f7-77da7d1fbd2e	TypeError	fsPromises.readFilex is not a function
+20230317	23:16:28	690b1f31-d9ce-4567-9db6-4c5a29f4131f	Error: not allowed by Cors
+20230319	01:01:42	fdf5356a-ab79-47b5-b8e0-02d3f35e2afc	SyntaxError: Unexpected string in JSON at position 16
+20230322	22:49:12	96b0e1c6-9905-4913-8718-4f20f30f1b01	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	22:50:52	a66748d2-472d-4ab5-9588-ff48ef41e8c3	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	22:52:05	cc2bb74a-b0d6-4c1f-b1fe-3077c54e3f2e	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	22:54:30	339cb3f4-07f8-4634-b15b-2cf8b1fcfd1e	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	22:55:21	973252a8-948a-4011-bdc8-0d63ee73ec56	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:04:53	fe46558a-38c6-4800-98d8-d6109b7f88cc	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:13:06	d3a1ae9f-5646-42f2-89ee-c6b269a0e22a	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:26:59	c1f4093d-efbd-4707-8ccc-26f4d83ca77f	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:41:46	c8db4f60-66b7-4572-bffe-5c8ce5316434	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:42:02	27377ecb-1322-45c5-a055-14818ec23f85	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:48:44	9749b97f-e2e3-4de2-beb8-f58b9147513a	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:54:21	fa3555ae-388f-4bc8-a2e0-3225fa25dc3b	TypeError: Cannot read properties of undefined (reading 'split')
+20230322	23:56:44	559bb656-34f2-41ca-aac2-de2f3293dc5b	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	22:55:13	e8fc6427-82d7-43bc-9fa3-a71d89f972a6	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	22:55:51	f7c90111-387d-408d-bb2a-717278060a2b	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	23:02:16	ad4a4613-5d19-414b-b206-e9a3ab1aad10	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	23:04:12	94ae3c1f-ab80-4df8-a713-9144b3ff0d0d	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	23:06:51	923535a9-fcbe-4c65-9abc-287a4aec5fa5	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	23:09:29	f3046afe-58d6-405b-bb29-b42677290aab	TypeError: Cannot read properties of undefined (reading 'split')
+20230323	23:20:30	a002d29a-d3a3-4ff8-b50e-85edb070f4df	TypeError: Cannot read properties of undefined (reading 'split')
+20230324	17:53:43	4879ab4d-f51b-49f7-ab03-68c047d4fa45	TypeError: Cannot read properties of undefined (reading 'split')
+20230326	01:14:39	6ea825f4-28ea-429f-aa0a-c8a5d6f7b85d	TypeError: authHeader?.startWith is not a function
+20230401	22:56:53	c88739f5-6cb7-4a79-99b9-b74835a40a0e	TypeError: Cannot read properties of undefined (reading 'split')
+20230401	22:57:43	f981ae43-9f4f-4ffc-af81-4fc6a6628d1a	TypeError: Cannot read properties of undefined (reading 'split')
+20230401	23:00:06	d96a5b35-5b71-463d-a038-5d7aace5e59e	ReferenceError: founduser is not defined
+20230401	23:02:04	3397219f-a748-43ae-b29d-7bf4a4d016ba	ReferenceError: founduser is not defined
+20230401	23:08:16	93452e7a-5881-4d70-8932-825dab4c4c7a	ReferenceError: founduser is not defined
+20230401	23:10:31	6da916ed-f88f-4fcd-91f3-02495ba6c1d1	ReferenceError: founduser is not defined
+20230401	23:12:34	ebc6d54f-4793-4cff-a609-2f5fc7239d67	ReferenceError: founduser is not defined
+20230401	23:32:32	cb7534f3-498b-4de7-a87c-463c48686552	TypeError: Cannot read properties of undefined (reading 'split')
+20230409	02:17:43	37b7ee66-9315-404a-82f9-872023ef2efd	ReferenceError: json is not defined
+20230409	02:19:12	ab4bfd9f-5e39-4c7d-ad70-62eb6a95013e	SyntaxError: Unexpected token , in JSON at position 1
+20230409	23:21:50	7b6aaf3b-306e-4c8e-8a8f-eda70bff863d	SyntaxError: Unexpected token M in JSON at position 34
+20230409	23:24:40	e97d4f9c-31c5-4de8-bdee-61b6c2030e44	SyntaxError: Unexpected token f in JSON at position 11
+20230410	00:07:48	a8221e88-8671-49bb-917a-be974f36532e	SyntaxError: Unexpected token f in JSON at position 11
+20230410	23:11:34	81b24900-0d80-4c36-bbf5-8abedfb5e39d	SyntaxError: Unexpected token f in JSON at position 10
+20230410	23:11:40	a0e11f0e-ebde-4d0f-823e-7f18437fa5f7	SyntaxError: Unexpected token f in JSON at position 11
+20230415	00:38:33	1855db24-b4f3-4557-9c31-55b0f7204bee	TypeError: Cannot read properties of undefined (reading 'split')
+20230415	00:38:33	a53566db-50ef-4aae-98ba-b0bc5e1b21c7	TypeError: Cannot read properties of undefined (reading 'split')
+20230416	23:27:46	4d6d3288-7cd4-4fd7-9124-57a200049eb0	TypeError: Cannot read properties of undefined (reading 'split')
+20230416	23:38:49	326f187e-4bbc-4bbf-98d4-0cf7f53c6e1d	TypeError: Cannot read properties of undefined (reading 'split')
+20230416	23:39:39	3106edf8-1338-4643-a0f8-35893e6c0b38	TypeError: Cannot read properties of undefined (reading 'split')
+20230416	23:43:35	02af6493-6f06-46c0-bea8-fe00b17db2ba	TypeError: Cannot read properties of undefined (reading 'split')
+20230416	23:44:31	ee78e29a-5d5e-4b03-b1e1-801308a767d6	TypeError: Cannot read properties of undefined (reading 'split')
+20230417	23:02:25	f97856e3-4228-4c06-9208-a740af81dcd0	TypeError: Cannot read properties of undefined (reading 'split')
+20230417	23:26:00	afff10c3-e616-436c-b58b-289d62c6f021	TypeError: Cannot read properties of undefined (reading 'split')
+20230417	23:36:24	0bb1a3d3-c836-4939-b279-159fe6df6cc8	TypeError: Cannot read properties of undefined (reading 'split')
+20230417	23:39:25	998b3e28-9568-44d8-b6a7-e001e8991d7c	TypeError: Cannot read properties of undefined (reading 'split')
+20230501	23:54:23	71b9a179-0631-4fae-9cf7-999af16c6124	Error: not allowed by Cors
+20230502	00:14:38	e3ee7538-f773-46eb-8c73-faec4d559d81	SyntaxError: Unexpected token ' in JSON at position 78
+20230519	23:59:06	1425bb95-16d2-4ae5-aa25-c62854161f01	TypeError: Cannot read properties of undefined (reading 'split')
+20230520	00:00:00	eccd49c1-9c1b-4b78-a9aa-8996d64f3a2c	TypeError: Cannot read properties of undefined (reading 'split')
+20230520	01:14:02	c0517b71-f6f4-42b4-a4ce-fb7e6b30dd4a	SyntaxError: Unexpected token ' in JSON at position 158
+20230522	23:39:28	d12cd2c6-8dfc-4d52-a6aa-d6cfa30250f1	TypeError: dbOperation.getAllAcountNames is not a function
+20230523	23:03:36	f2a57b66-4f32-477f-b8e6-5370143b988d	TypeError: dbOperation.getTopAccounts is not a function
+20230529	00:11:00	a0a31528-a219-4594-87ff-89b60b03c427	TypeError: Cannot read properties of undefined (reading 'split')
+20230529	00:14:41	041628f9-1fe1-4ead-b03d-7d8dfeeadb2c	TypeError: dbOperation.getAllWebsites is not a function
+20230623	23:58:17	d14b5f97-5a80-41ae-80e4-e8179cc4427d	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	e0702906-7759-45ce-9801-6183366de3f8	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	7cdb7a45-4322-46ff-8007-2c9b43527695	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	6e6d5b4b-a3d1-4489-8759-76d1108caa01	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	d7f82779-84b5-477c-83a6-c20c25a0d286	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	c915348d-63a7-4b3c-96de-68ee1e19ceca	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	f6bfb1e8-dde5-49bf-88ee-3f938837c956	TypeError: Cannot read properties of undefined (reading 'split')
+20230623	23:58:17	c6ca8ef6-43d7-481a-a76d-ba37b19e1d46	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	f1e5f876-49e0-4a88-b90e-e5f91590e99b	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	9bafefe4-6b9d-404b-a862-62d7155ccc55	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	774fb244-da50-4a8a-a750-8ad38aae3082	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	cbc29a33-eb47-4f00-a7c5-878f9ca81ff7	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	fed239c2-d3cd-4f50-94f0-995cf60ada1e	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	98ec9723-60d6-4ebf-b076-f11d4516ad1c	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	637e4eee-7fab-400d-b694-e05c0aa0b59c	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:07:39	9e2ccb78-fd35-4e3f-8f83-e080a7f383ff	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:30	ba2b4cfe-2713-4595-b1a4-191281d1a4a6	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:30	eb07a657-aa5d-424c-9461-acfdd63f56f8	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:30	ce31528d-9c16-4c36-84ab-0b38f574e3b3	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:31	9116ab72-8f22-44de-95af-714ccb73c6ef	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:31	6c440746-a3f3-4dd2-b43f-ca9b8e2d7388	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:31	f5dfb87c-cd4b-4937-888a-b5eb09c5bea0	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:31	03961e41-c22e-49b7-b16c-0a8077a8b66c	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:10:31	96614d96-ce58-4f85-b0ba-63e6e9c46685	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:12:00	832d5ad5-7aaa-493c-bdd3-ac3e58f664fa	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:13:02	f59b2569-9571-49ec-9521-7793f86c0882	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	00:14:22	01a3026d-3b9e-467c-b770-49b558d8c0fc	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	01:24:42	a8eb8067-0218-4b66-b1a8-dd8056a8685d	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:01:36	ca767bd3-21d8-4d98-94bd-93abaaf76dc4	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:01:36	d4339254-5926-49c1-bf65-0f1f5712577a	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:01:36	5fe8c5bf-4cb6-4f08-8375-d259a9b7b2f2	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:01:36	82df46b8-4d83-4fb7-bc86-323b72d614d4	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:01:36	71c7a2a2-aa13-4675-adaf-ef16544e1fc5	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:01:37	d94b58d6-684c-4bf9-bec3-41cf291cc718	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:03:53	62ca4647-b527-4136-8074-9a2189e6bcd9	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:03:53	1c971c2d-1545-4b30-94bc-73987b4ca6a6	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:03:53	6fd724d0-2f52-4f12-a0f8-4498425815a1	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:03:53	b4602817-db04-43ab-86d3-ec9f654acc8f	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:03:54	2fa9a1e6-da11-4375-b90f-03781c35055a	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:03:54	73769c69-a6e8-490f-a176-cf6adcd763e9	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:10:14	a54d9e20-9d09-4288-b0d5-6a6a3da8d784	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:10:14	64051ddb-37fd-4cad-a8f2-69183b4b25c6	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:10:14	c4838d5b-5402-40bc-a085-9a9c4bfe2092	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:10:15	861cae0b-2d14-4c03-85c0-c1abb0b63d49	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:10:15	a559c72c-6264-4abe-9e65-7391f1f41348	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:10:15	d9b53e53-0f34-45ee-81a4-dc80ce316e55	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:11:00	0054674d-5437-44e7-a94c-0b95e89a3fe0	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:11:00	9402204e-ffc9-41e6-bdd6-ba4c1b083db6	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:11:00	e84307d3-e5df-4ecf-b37f-b1ba244b562a	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:11:00	67195838-0565-40ed-9ec5-478a4f6469b7	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:11:00	ef34c630-e21d-4131-b212-7744aac440af	TypeError: Cannot read properties of undefined (reading 'split')
+20230624	02:11:00	845dbba9-12ca-495d-a2bc-2e632b04a741	TypeError: Cannot read properties of undefined (reading 'split')
+20230625	00:54:00	6598585e-1498-4732-87cd-737c817edfee	Error: Cannot set headers after they are sent to the client
+20230625	00:54:00	a7de24b7-1c14-4864-a87d-33892dc59539	Error: Cannot set headers after they are sent to the client
+20230630	00:00:32	883a3f13-5368-452e-9757-39cd723b4d33	SyntaxError: Unexpected token e in JSON at position 0
+20230708	01:54:05	043a1b0a-1727-4de4-9a91-77bc9cd0a738	Error: Cannot set headers after they are sent to the client
+20230708	02:01:01	c7ce8bfe-c6a7-482f-b499-7a10370d4d32	Error: Cannot set headers after they are sent to the client
+20230708	02:01:32	b77717d4-1149-4503-be15-3950311c94c1	Error: Cannot set headers after they are sent to the client
+20230708	02:06:36	5846c9ad-573d-47f7-890f-806981eb3fc2	Error: Cannot set headers after they are sent to the client
+20230708	02:22:14	0c0ca6ab-387e-4dd6-af4b-12aeb149f552	Error: Cannot set headers after they are sent to the client
+20230708	03:07:47	44862ae3-ff94-435a-b195-6b13bc945b95	Error: Cannot set headers after they are sent to the client
+20230709	01:23:25	0213b61e-2d99-4420-87b8-35f52e19b49b	Error: Cannot set headers after they are sent to the client
+20230711	23:31:18	1d542a85-d672-4460-a094-7d1981599346	SyntaxError: Unexpected token r in JSON at position 76
+20230711	23:32:25	c8e256ed-c081-4749-8fea-9419ac14228b	SyntaxError: Unexpected token r in JSON at position 76
